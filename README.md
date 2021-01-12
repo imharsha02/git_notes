@@ -33,4 +33,9 @@ git pull URLOfGitHubReop
 ### show the files that are not commited yet
 ```git
 git status
-``
+```
+
+### See different branches
+```git
+git branch
+```
