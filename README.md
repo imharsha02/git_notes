@@ -30,4 +30,7 @@ git pull URLOfGitHubReop
 1) Click the new file option
 2) Name the new file with the '.md' extension
 
-###
+### show the files that are not commited yet
+```git
+git status
+``
