@@ -40,3 +40,4 @@ git status
 git branch
 ```
 * beside the branch name means that we are currently on that branch
+the 'q' key is used to quit that page and get back to the home page in the terminal
