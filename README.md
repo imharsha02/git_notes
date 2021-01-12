@@ -51,3 +51,4 @@ git checkout branchName
 ```git
 git checkout -b newBranchName
 ```
+If the changes to the file are staged and commited in a branch that is not the default one, then the files are staged and commited to the new branch and there will be no connection b/w these two branches
