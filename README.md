@@ -39,3 +39,4 @@ git status
 ```git
 git branch
 ```
+* beside the branch name means that we are currently on that branch
