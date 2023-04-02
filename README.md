@@ -21,7 +21,7 @@ git commit -m "Some message"
 git push
 ```
 
-### Bring git repo into system from to make changes
+### Download changes from remote repo to local machine
 ```git
 git pull URLOfGitHubReop
 ```
